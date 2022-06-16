@@ -158,4 +158,6 @@ function shouldWater (daysSinceWater) {
     }
 }
 
+shouldWater (5);
+
 //This function allows me to get notice of when I need to water my plants as I am terrible at remembering.
